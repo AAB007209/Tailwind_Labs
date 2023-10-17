@@ -6,6 +6,8 @@
 
 > Not Responsive yet - Best viewed on large screens (Preferably Laptop Screens)
 
+#### Inspiration from - [Qoals Website](https://qoals.com/)
+
 ### What new things did I learn from this ?
 
 * ``mix-blend-multiply`` &rarr; This property blends the colors overlapping in order to get the variation of two colors. Its for like Intersection of two colors.
