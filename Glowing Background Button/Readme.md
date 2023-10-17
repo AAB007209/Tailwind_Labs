@@ -18,7 +18,8 @@
 * As soon as we move our cursor from the button the text takes 2ms to transition back to indigo color whereas the background glow effect takes 1s to return back to normal state. So we have grouped the text and glow effect here on hover effect.
 
 * At first I thought that button we see is showing the glow effect but in reality we created a div of pink color and set it to **absolute** so it stays behind the button we see. That pink div is made to glow when we hover on it. Below is the code for that pink div.
+
+* #### Link to [Tailwind Labs Tutorial](https://www.youtube.com/watch?v=5W6kEP65AH4)
+* #### Link to [Tailwind Official Docs](https://tailwindcss.com/docs/installation)
 ---
 ![Alt text](image-2.png)
-
-#### Link to [Tailwind Labs Tutorial](https://www.youtube.com/watch?v=5W6kEP65AH4)
