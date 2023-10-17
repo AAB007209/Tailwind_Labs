@@ -2,7 +2,7 @@
 ![Live Output Image](image-3.png)
 
 ---
-### Link to [Live Demo]() and [Tailwind play](https://play.tailwindcss.com/ULwT6MTmWI)
+### Link to [Live Demo](https://aab007209.github.io/Tailwind_Labs/Blurry%20and%20Animated%20Background%20Shapes/public/index.html) and [Tailwind play](https://play.tailwindcss.com/ULwT6MTmWI)
 
 > Not Responsive yet - Best viewed on large screens (Preferably Laptop Screens)
 
