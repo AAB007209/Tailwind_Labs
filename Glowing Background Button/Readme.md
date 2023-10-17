@@ -2,6 +2,7 @@
 ![Output Image](image-1.png)
 ### Link to Tailwind play - https://play.tailwindcss.com/fNKKyOG2Yv
 
+> Not Responsive yet - Best viewed on large screens (Preferably Laptop Screens)
 
 ### What new things did I learn from this ?
 *  **-rotate-6** &rarr; for the beaker icon which rotates the icon slightly towards right.
