@@ -24,4 +24,4 @@
 
 | tailwind.config.js     | input.css               |
 | ---------------------- | ---------------------- |
-| ![tailwind.config.js](Image-1.png)    | ![input.css](image-2.png)    |
+| ![tailwind.config.js](image-1.png)    | ![input.css](image-2.png)    |
